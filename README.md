@@ -1,0 +1,4 @@
+XAMARINBINDINGS
+===============
+
+xamari binding projects
